@@ -1,0 +1,106 @@
+{
+  "weekId": "2026-W18",
+  "weekLabel": "Week of Apr 27 – May 3, 2026",
+  "items": [
+    {
+      "id": "item_001",
+      "title": "The Last 6,000 Feet: How Fighter Pilots Think About Death",
+      "type": "article",
+      "source": "Esquire",
+      "thumbnail": "https://picsum.photos/seed/item001/600/340",
+      "dateViewed": "2026-04-28",
+      "estimatedTime": "12 min read",
+      "tags": ["psychology", "aviation", "mindset"]
+    },
+    {
+      "id": "item_002",
+      "title": "Why Cities Are Getting Hotter Faster",
+      "type": "video",
+      "source": "YouTube — Vox",
+      "thumbnail": "https://picsum.photos/seed/item002/600/340",
+      "dateViewed": "2026-04-28",
+      "estimatedTime": "8 min watch",
+      "tags": ["climate", "urban planning", "science"]
+    },
+    {
+      "id": "item_003",
+      "title": "The Man Who Broke the Music Industry",
+      "type": "article",
+      "source": "The Atlantic",
+      "thumbnail": "https://picsum.photos/seed/item003/600/340",
+      "dateViewed": "2026-04-29",
+      "estimatedTime": "18 min read",
+      "tags": ["music", "business", "culture"]
+    },
+    {
+      "id": "item_004",
+      "title": "Building in Public: One Year of Failure",
+      "type": "video",
+      "source": "YouTube — Indie Hackers",
+      "thumbnail": "https://picsum.photos/seed/item004/600/340",
+      "dateViewed": "2026-04-29",
+      "estimatedTime": "22 min watch",
+      "tags": ["startups", "indie", "entrepreneurship"]
+    },
+    {
+      "id": "item_005",
+      "title": "The Quiet Power of Boredom",
+      "type": "article",
+      "source": "Aeon",
+      "thumbnail": "https://picsum.photos/seed/item005/600/340",
+      "dateViewed": "2026-04-30",
+      "estimatedTime": "9 min read",
+      "tags": ["psychology", "mindfulness", "creativity"]
+    },
+    {
+      "id": "item_006",
+      "title": "Figma's Design System at Scale",
+      "type": "video",
+      "source": "YouTube — Config 2025",
+      "thumbnail": "https://picsum.photos/seed/item006/600/340",
+      "dateViewed": "2026-04-30",
+      "estimatedTime": "45 min watch",
+      "tags": ["design", "systems", "tools"]
+    },
+    {
+      "id": "item_007",
+      "title": "Longevity Is Not About Optimization",
+      "type": "article",
+      "source": "Substack — Peter Attia",
+      "thumbnail": "https://picsum.photos/seed/item007/600/340",
+      "dateViewed": "2026-05-01",
+      "estimatedTime": "14 min read",
+      "tags": ["health", "longevity", "philosophy"]
+    },
+    {
+      "id": "item_008",
+      "title": "The Geometry of Deep Learning",
+      "type": "video",
+      "source": "YouTube — 3Blue1Brown",
+      "thumbnail": "https://picsum.photos/seed/item008/600/340",
+      "dateViewed": "2026-05-01",
+      "estimatedTime": "27 min watch",
+      "tags": ["machine learning", "math", "education"]
+    },
+    {
+      "id": "item_009",
+      "title": "Collapse of the Middle Manager",
+      "type": "article",
+      "source": "The New Yorker",
+      "thumbnail": "https://picsum.photos/seed/item009/600/340",
+      "dateViewed": "2026-05-02",
+      "estimatedTime": "11 min read",
+      "tags": ["work", "management", "economics"]
+    },
+    {
+      "id": "item_010",
+      "title": "How to Think About Your Own Death",
+      "type": "video",
+      "source": "YouTube — Kurzgesagt",
+      "thumbnail": "https://picsum.photos/seed/item010/600/340",
+      "dateViewed": "2026-05-03",
+      "estimatedTime": "13 min watch",
+      "tags": ["philosophy", "existentialism", "animation"]
+    }
+  ]
+}

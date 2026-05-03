@@ -1,0 +1,83 @@
+[
+  {
+    "weekId": "2026-W17",
+    "weekLabel": "Week of Apr 20–26",
+    "identity": "Deep Diver",
+    "keyInsight": "You spent 78% of your time on long-form content over 10 minutes. Curiosity was your dominant intent — and it showed in your retention.",
+    "stats": {
+      "avgValue": 6.8,
+      "topRetention": "Yes",
+      "dominantIntent": "Curious",
+      "itemsReviewed": 10
+    },
+    "topTags": ["psychology", "science", "history"],
+    "items": [
+      { "id": "pw17_001", "title": "The Science of Sleep Debt", "type": "article", "source": "Sleep Foundation", "thumbnail": "https://picsum.photos/seed/pw17a/400/220", "dateViewed": "2026-04-21", "estimatedTime": "15 min read", "tags": ["science", "health", "psychology"] },
+      { "id": "pw17_002", "title": "Rome Wasn't Built in a Day, But...", "type": "video", "source": "YouTube — Toldinstone", "thumbnail": "https://picsum.photos/seed/pw17b/400/220", "dateViewed": "2026-04-22", "estimatedTime": "32 min watch", "tags": ["history", "architecture", "culture"] },
+      { "id": "pw17_003", "title": "How Trauma Reshapes the Brain", "type": "article", "source": "Scientific American", "thumbnail": "https://picsum.photos/seed/pw17c/400/220", "dateViewed": "2026-04-23", "estimatedTime": "12 min read", "tags": ["psychology", "neuroscience", "health"] },
+      { "id": "pw17_004", "title": "The Hidden Costs of Cheap Fashion", "type": "video", "source": "YouTube — DW Documentary", "thumbnail": "https://picsum.photos/seed/pw17d/400/220", "dateViewed": "2026-04-24", "estimatedTime": "48 min watch", "tags": ["sustainability", "economics", "culture"] },
+      { "id": "pw17_005", "title": "Why We Remember Some Things and Forget Others", "type": "article", "source": "Nautilus", "thumbnail": "https://picsum.photos/seed/pw17e/400/220", "dateViewed": "2026-04-24", "estimatedTime": "11 min read", "tags": ["psychology", "science", "memory"] },
+      { "id": "pw17_006", "title": "The Philosophy of Regret", "type": "article", "source": "Aeon", "thumbnail": "https://picsum.photos/seed/pw17f/400/220", "dateViewed": "2026-04-25", "estimatedTime": "16 min read", "tags": ["philosophy", "psychology", "ethics"] },
+      { "id": "pw17_007", "title": "James Webb: What We've Learned So Far", "type": "video", "source": "YouTube — PBS Space Time", "thumbnail": "https://picsum.photos/seed/pw17g/400/220", "dateViewed": "2026-04-25", "estimatedTime": "22 min watch", "tags": ["science", "astronomy", "technology"] },
+      { "id": "pw17_008", "title": "The Economics of Loneliness", "type": "article", "source": "The Atlantic", "thumbnail": "https://picsum.photos/seed/pw17h/400/220", "dateViewed": "2026-04-26", "estimatedTime": "14 min read", "tags": ["economics", "sociology", "health"] },
+      { "id": "pw17_009", "title": "Mycorrhizal Networks: The Wood Wide Web", "type": "video", "source": "YouTube — Kurzgesagt", "thumbnail": "https://picsum.photos/seed/pw17i/400/220", "dateViewed": "2026-04-26", "estimatedTime": "9 min watch", "tags": ["science", "ecology", "biology"] },
+      { "id": "pw17_010", "title": "How Stoics Dealt With Grief", "type": "article", "source": "Big Think", "thumbnail": "https://picsum.photos/seed/pw17j/400/220", "dateViewed": "2026-04-26", "estimatedTime": "8 min read", "tags": ["philosophy", "history", "psychology"] }
+    ]
+  },
+  {
+    "weekId": "2026-W16",
+    "weekLabel": "Week of Apr 13–19",
+    "identity": "Skimmer",
+    "keyInsight": "High volume, light touch. Most content was rated 'Vaguely' remembered. Habit drove over half your viewing — not curiosity.",
+    "stats": {
+      "avgValue": 4.2,
+      "topRetention": "Vaguely",
+      "dominantIntent": "Habit",
+      "itemsReviewed": 10
+    },
+    "topTags": ["tech", "social media", "news"],
+    "items": []
+  },
+  {
+    "weekId": "2026-W15",
+    "weekLabel": "Week of Apr 6–12",
+    "identity": "Explorer",
+    "keyInsight": "Wide variety across 6 topic clusters. High intentionality but shorter formats dominated. You were clearly in discovery mode.",
+    "stats": {
+      "avgValue": 7.1,
+      "topRetention": "Yes",
+      "dominantIntent": "Intentional",
+      "itemsReviewed": 10
+    },
+    "topTags": ["travel", "design", "culture", "food"],
+    "items": []
+  },
+  {
+    "weekId": "2026-W14",
+    "weekLabel": "Week of Mar 30 – Apr 5",
+    "identity": "Curator",
+    "keyInsight": "Selective and deliberate. High average value scores across the board. You seem to have known exactly what you wanted this week.",
+    "stats": {
+      "avgValue": 8.0,
+      "topRetention": "Yes",
+      "dominantIntent": "Intentional",
+      "itemsReviewed": 10
+    },
+    "topTags": ["design", "tools", "productivity"],
+    "items": []
+  },
+  {
+    "weekId": "2026-W13",
+    "weekLabel": "Week of Mar 23–29",
+    "identity": "Passenger",
+    "keyInsight": "Habit and boredom drove 60% of consumption. Low value scores suggest you were going through the motions. Noticing is the first step.",
+    "stats": {
+      "avgValue": 3.5,
+      "topRetention": "No",
+      "dominantIntent": "Habit",
+      "itemsReviewed": 10
+    },
+    "topTags": ["entertainment", "social media", "gaming"],
+    "items": []
+  }
+]
